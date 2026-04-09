@@ -16,7 +16,7 @@
 
 ## 📋 Giới Thiệu
 
-**BadmintonShop** là hệ thống phần mềm giúp quản lý và bán vợt cầu lông trực tuyến.  
+**LI NING** là hệ thống phần mềm giúp quản lý và bán vợt cầu lông trực tuyến.  
 Người dùng có thể dễ dàng tìm kiếm, xem thông tin và đặt mua sản phẩm nhanh chóng.
 
 Hệ thống được xây dựng nhằm phục vụ mục đích học tập và phát triển kỹ năng lập trình fullstack.
